@@ -47,6 +47,7 @@ I'm a **Systems Analyst** based in **Contagem, Minas Gerais**, with expertise in
 - 🗄️ **Databases**: **PostgreSQL**, **MySQL**, **Oracle**
 - 🌐 **Solutions**: Scalable, efficient systems built to suit unique business needs, ensuring seamless AI integration.
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
