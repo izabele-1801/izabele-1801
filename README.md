@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
 
 <div align="center">
 
@@ -51,6 +46,13 @@ I'm a **Systems Analyst** based in **Contagem, Minas Gerais**, with expertise in
 - ⚙️ **Tools**: **N8N**, **Python**, **LangChain**
 - 🗄️ **Databases**: **PostgreSQL**, **MySQL**, **Oracle**
 - 🌐 **Solutions**: Scalable, efficient systems built to suit unique business needs, ensuring seamless AI integration.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
