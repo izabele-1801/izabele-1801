@@ -12,11 +12,6 @@
 
 ### 🚀 Systems Analyst | AI | Python | LangChain | N8N | Process Automation
 
-<p>
-  <a href="https://www.linkedin.com/in/izabele-ribeiro/">
-    <img src="https://img.shields.io/badge/LinkedIn-Izabele%20Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 </div>
 
