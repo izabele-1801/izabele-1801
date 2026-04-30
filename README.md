@@ -6,12 +6,9 @@
 
 <div align="center">
 
-<div align="center">
-
 # 👋 Hi, I'm Izabele Ribeiro
 
-### 🚀 Systems Analyst | AI | Python | LangChain | N8N | Process Automation
-
+### 🚀 Systems Analyst & AI Developer
 
 </div>
 
@@ -19,20 +16,7 @@
 
 ## 🧠 About Me
 
-I'm a **Systems Analyst** based in **Contagem, Minas Gerais**, specializing in **process automation** using **AI**, **Python**, **LangChain**, and **N8N**. I'm passionate about creating smart solutions that optimize workflows and integrate AI seamlessly into business processes.
-
-- 🔭 Currently working on **AI-powered process automation** and **system integrations**
-- 🌱 Continuously learning and improving my skills in **LangChain**, **Python**, and **N8N**
-- 💬 Ask me about **AI integrations**, **process automation**, **Python**, and **smart systems**
-
----
-
-## 🧩 What I Do
-
-- ⚙️ Automate processes with **N8N** and **Python**
-- 🧠 Integrate **AI** into workflows and systems
-- 📈 Develop solutions with **LangChain** to enhance automation
-- 🔗 Integrate systems and optimize business processes for efficiency
+I'm a **Systems Analyst** based in **Contagem, Minas Gerais**, with expertise in **AI-powered process automation** using **Python**, **LangChain**, **N8N**, and integrating intelligent systems into business workflows. Passionate about crafting automated solutions that enhance operational efficiency and intelligence in everyday processes.
 
 ---
 
@@ -40,36 +24,42 @@ I'm a **Systems Analyst** based in **Contagem, Minas Gerais**, specializing in *
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://skillicons.dev/icons?i=python,js,typescript)
-
-### ⚙️ Frameworks & Tools
-![Figma](https://skillicons.dev/icons?i=figma)
-
-
-### 🗄️ Databases
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
-
+### 💻 **Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,php" />
 </div>
 
+### ⚙️ **Frameworks & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,docker,figma" />
+</div>
+
+### 🗄️ **Databases**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</div>
+</div>
 ---
 
 ## 🚀 Featured Projects
 
-### 💡 Process Automation
-> Focused on transforming complex workflows into automated and intelligent processes.
+### 💡 **AI-Powered Process Automation**
+> Dedicated to converting complex workflows into intelligent, AI-driven automation, reducing manual effort and increasing operational speed.
 
-- ⚙️ Tools: **N8N**, **Python**, **LangChain**
-- 🗄️ Databases: **PostgreSQL**, **MySQL**
-- 🌐 Scalable and efficient solutions tailored for businesses
+- ⚙️ **Tools**: **N8N**, **Python**, **LangChain**
+- 🗄️ **Databases**: **PostgreSQL**, **MySQL**, **Oracle**
+- 🌐 **Solutions**: Scalable, efficient systems built to suit unique business needs, ensuring seamless AI integration.
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're interested in collaborating, discussing AI automation, or exploring new projects, feel free to reach out:
+If you're interested in collaborating, building something cool, or just talking tech:
 
-- 💼 LinkedIn: [Izabele Ribeiro](https://www.linkedin.com/in/izabele-ribeiro/)
+- 💼 LinkedIn: https://www.linkedin.com/in/izabele-ribeiro
+
 
 ---
 
